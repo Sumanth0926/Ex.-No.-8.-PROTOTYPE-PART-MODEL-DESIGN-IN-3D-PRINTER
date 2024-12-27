@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![Screenshot 2024-12-27 232020](https://github.com/user-attachments/assets/b5cff869-7187-4f9b-aae6-ca99b9c8a37a)
+
+
+### Name: Pothu Sumanth
+### Register Number: 24000831
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
